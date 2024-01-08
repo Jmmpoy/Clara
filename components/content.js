@@ -53,7 +53,7 @@ export default function content({ data }) {
                 as={`/projects/${project.id}`}
                 passHref>
                 <a
-                  className={`  text-5xl xsm:text-6xl sm:text-7xl md:text-8xl font-foundersLight tracking-tight  `}>
+                  className={`  text-3xl xsm:text-4xl sm:text-5xl md:text-7xl font-foundersLight tracking-tight  `}>
                   {project.name}
                 </a>
               </Link>
