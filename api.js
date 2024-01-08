@@ -15,7 +15,7 @@ import fiftylab2 from "./public/assets/Projects/350lab/350lab-2.png";
 const data = [
   {
     id: 1,
-    name: "MyCanal ",
+    name: "Saggi Jewels",
     primaryImage: canal1,
     secondaryImage: canal2,
     description: [
@@ -28,13 +28,13 @@ const data = [
         text: "sur Windows et Xbox.",
       },
     ],
-    role: "Développeur Front-End",
+    role: "Développeuse No-Code",
     year: "2020 - Aujourd'hui",
     link: "https://www.canalplus.com/",
   },
   {
     id: 2,
-    name: "FilmoTv",
+    name: "Euroblock",
     primaryImage: filmo1,
     secondaryImage: filmo2,
     description: [
@@ -47,13 +47,13 @@ const data = [
         text: "sur Android et IOS.",
       },
     ],
-    role: "Développeur Front-End",
+    role: "Développeuse No-Code",
     year: "2020 - Aujourd'hui",
     link: "https://www.filmotv.fr/",
   },
   {
     id: 3,
-    name: "Soundcharts",
+    name: "Acoustic Centre",
     primaryImage: soundcharts1,
     secondaryImage: soundcharts2,
     description: [
@@ -66,13 +66,13 @@ const data = [
         text: "Soundcharts sur Ios et Android",
       },
     ],
-    role: "Développeur Front-End",
+    role: "Développeuse No-Code",
     year: "2020 - Aujourd'hui",
     link: "https://soundcharts.com/",
   },
   {
     id: 4,
-    name: "Elow",
+    name: "Audition Direct Optic",
     primaryImage: elow,
     secondaryImage: elow2,
     description: [
@@ -85,13 +85,13 @@ const data = [
         text: "consommation énergétique de son PC",
       },
     ],
-    role: "Développeur Front-End",
+    role: "Développeuse No-Code",
     year: "2020 - Aujourd'hui",
     link: "https://elow.energy/fr/",
   },
   {
     id: 5,
-    name: "350lab",
+    name: "Manufacture Perrin",
     primaryImage: fiftyLab,
     secondaryImage: fiftylab2,
     description: [
@@ -104,7 +104,7 @@ const data = [
         text: "du studio 350lab",
       },
     ],
-    role: "Développeur Front-End - Ui/Ux",
+    role: "Développeuse No-Code - Ui/Ux",
     year: "2022 - Aujourd'hui",
     link: "https://www.350lab.com/",
   },

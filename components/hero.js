@@ -6,10 +6,10 @@ import { fade } from "@/helpers/transitions";
 
 export default function Hero({ message }) {
   const frenchContent = [
-    { id: 1, text: "Lorem Ipsum" },
-    { id: 2, text: "— Lorem Ipsum" },
-    { id: 3, text: "Lorem Ipsum" },
-    { id: 4, text: "*Lorem Ipsum" },
+    { id: 1, text: "Clara Onuegbu" },
+    { id: 2, text: "— Webdesigneuse" },
+    { id: 3, text: "basée à Paris" },
+    { id: 4, text: "*Travaille actuellement chez Acuitis" },
   ];
   const container = {
     hidden: { opacity: 0 },

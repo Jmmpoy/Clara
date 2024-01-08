@@ -1,13 +1,13 @@
 export default {
-  defaultTitle: "350Lab — Template",
+  defaultTitle: "Clara Onuegbu",
   description:
-    "350Lab est un développeur spécialisé dans le mouvement et l'interaction. En tant qu'indépendant, il travaille avec des entreprises, des agences, des startups et des particuliers.",
-  titleTemplate: "350Lab — Template",
+    "Clara Onuegbu est une webdesigneuse spécialisée dans le mouvement et l'interaction. En tant qu'indépendante, elle travaille avec des entreprises, des agences, des startups et des particuliers.",
+  titleTemplate: "Clara Onuegbu",
   openGraph: {
     type: "website",
     locale: "en_GB",
     url: "https://sg-next-tailwind-motion.vercel.app/",
-    site_name: "350Lab — Template",
+    site_name: "Clara Onuegbu",
     images: [
       {
         url: "/images/social.jpg",
