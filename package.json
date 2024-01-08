@@ -19,7 +19,7 @@
     "motion",
     "preact"
   ],
-  "homepage": "https://sg-next-tailwind-motion.vercel.app/",
+  "homepage": "https://claraonuegbu.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -6,7 +6,7 @@ export default {
   openGraph: {
     type: "website",
     locale: "en_GB",
-    url: "https://sg-next-tailwind-motion.vercel.app/",
+    url: "https://claraonuegbu.vercel.app/",
     site_name: "Clara Onuegbu",
     images: [
       {
