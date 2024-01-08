@@ -7,12 +7,12 @@ export default function About() {
   const presentation = [
     {
       id: 1,
-      text: "350lab est un développeur ",
+      text: "Clara Onuegbu est une Webdesigneuse ",
     },
 
     {
       id: 2,
-      text: "front-end basé en France et travaillant  ",
+      text: "basée en France et travaillant  ",
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ export default function About() {
   const content = [
     {
       id: 0,
-      text: "Passionné de design, il se spécialise",
+      text: "Passionné de design, elle se spécialise",
     },
     {
       id: 1,
@@ -40,7 +40,7 @@ export default function About() {
   const content2 = [
     {
       id: 3,
-      text: "En tant que développeur, il a eu ",
+      text: "En tant que webdesigneuse, elle a eu ",
     },
     {
       id: 4,
@@ -48,11 +48,7 @@ export default function About() {
     },
     {
       id: 5,
-      text: "un panel de clients dont Microsoft, ",
-    },
-    {
-      id: 6,
-      text: "Canal+ , Soundcharts et FilmoTv.",
+      text: "un panel de clients différents.",
     },
   ];
 
@@ -112,7 +108,7 @@ export default function About() {
     <Container extraClasses="Content-Container  h-screen py-12 overflow-auto  md:overflow-hidden">
       <NextSeo
         title="A Propos"
-        description="350 lab est un développeur spécialisé dans le mouvement et l'interaction. En tant qu'indépendant, il travaille avec des entreprises, des agences, des startups et des particuliers."
+        description="Clara est une développeuse spécialisée dans le mouvement et l'interaction. En tant qu'indépendante, elle travaille avec des entreprises, des agences, des startups et des particuliers."
       />
       <motion.div className="grid  h-full grid-cols-1   md:grid-cols-2 md:bg-blue-500 ">
         <motion.div className="text-sm font-founders  flex flex-col justify-center w-full md:col-start-2  md:m-0 ">
