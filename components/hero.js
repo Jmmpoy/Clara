@@ -7,7 +7,7 @@ import { fade } from "@/helpers/transitions";
 export default function Hero({ message }) {
   const frenchContent = [
     { id: 1, text: "Clara Onuegbu" },
-    { id: 2, text: "— Webdesigneuse" },
+    { id: 2, text: "— Webdesigner" },
     { id: 3, text: "basée à Paris" },
     { id: 4, text: "*Travaille actuellement chez Acuitis" },
   ];

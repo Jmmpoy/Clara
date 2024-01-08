@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <Layout class="no-scrollbar">
       <NextSeo
-        title="Clara Onuegbu — Webdesigneuse"
-        description="Clara Onuegbu est une webdesigneuse spécialisée dans le mouvement et l'interaction. En tant qu'indépendante, elle travaille avec des entreprises, des agences, des startups et des particuliers."
+        title="Clara Onuegbu — Webdesigner"
+        description="Clara Onuegbu est une webdesigner spécialisée dans le mouvement et l'interaction. En tant qu'indépendante, elle travaille avec des entreprises, des agences, des startups et des particuliers."
       />
       <LazyMotion features={domAnimation}>
         <m.div initial="initial" animate="enter" exit="exit">

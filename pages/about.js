@@ -7,7 +7,7 @@ export default function About() {
   const presentation = [
     {
       id: 1,
-      text: "Clara Onuegbu est une Webdesigneuse ",
+      text: "Clara Onuegbu est une Webdesigner ",
     },
 
     {
@@ -40,7 +40,7 @@ export default function About() {
   const content2 = [
     {
       id: 3,
-      text: "En tant que webdesigneuse, elle a eu ",
+      text: "En tant que webdesigneusr, elle a eu ",
     },
     {
       id: 4,

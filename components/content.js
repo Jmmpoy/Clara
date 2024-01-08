@@ -35,7 +35,7 @@ export default function content({ data }) {
   }
 
   return (
-    <Container extraClasses="Content-Container   py-12   lg:py-32">
+    <Container extraClasses="Content-Container   pb-12   lg:pb-32">
       <motion.p
         variants={delayedFade}
         initial="initial"

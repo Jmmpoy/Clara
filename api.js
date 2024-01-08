@@ -30,7 +30,7 @@ const data = [
     ],
     role: "Développeuse No-Code",
     year: "2020 - Aujourd'hui",
-    link: "https://www.canalplus.com/",
+    link: "https://saggi-jewels.com/",
   },
   {
     id: 2,
@@ -49,11 +49,11 @@ const data = [
     ],
     role: "Développeuse No-Code",
     year: "2020 - Aujourd'hui",
-    link: "https://www.filmotv.fr/",
+    link: "https://euroblock.fr/",
   },
   {
     id: 3,
-    name: "Acoustic Centre",
+    name: "AcoustiCentre",
     primaryImage: soundcharts1,
     secondaryImage: soundcharts2,
     description: [

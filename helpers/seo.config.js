@@ -1,7 +1,7 @@
 export default {
   defaultTitle: "Clara Onuegbu",
   description:
-    "Clara Onuegbu est une webdesigneuse spécialisée dans le mouvement et l'interaction. En tant qu'indépendante, elle travaille avec des entreprises, des agences, des startups et des particuliers.",
+    "Clara Onuegbu est une webdesigner spécialisée dans le mouvement et l'interaction. En tant qu'indépendante, elle travaille avec des entreprises, des agences, des startups et des particuliers.",
   titleTemplate: "Clara Onuegbu",
   openGraph: {
     type: "website",
