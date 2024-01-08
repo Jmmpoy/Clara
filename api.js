@@ -23,7 +23,7 @@ const data = [
     description: [
       {
         id: 1,
-        text: "Développment d'une boutique",
+        text: "Développement d'une boutique",
       },
       {
         id: 2,
@@ -42,7 +42,7 @@ const data = [
     description: [
       {
         id: 1,
-        text: "Développment d'un site vitrine professionnelle pour une ",
+        text: "Développement d'un site vitrine professionnel pour une ",
       },
       {
         id: 2,
@@ -61,7 +61,7 @@ const data = [
     description: [
       {
         id: 1,
-        text: "Développment d'un site vitrine pour une",
+        text: "Développement d'un site vitrine pour une",
       },
       {
         id: 2,
