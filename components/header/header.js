@@ -53,14 +53,7 @@ export default function Header() {
             <Navigation items={menuItems} />
           </AnimateSharedLayout>
 
-          <motion.ul
-            variants={delayedFade}
-            initial="initial"
-            animate="enter"
-            exit="exit"
-            className=" hidden  sm:block sm:basis-1/2">
-            <DateTime />
-          </motion.ul>
+          
         </motion.div>
       </Container>
     </header>

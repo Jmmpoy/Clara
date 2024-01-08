@@ -1,112 +1,114 @@
-import filmo1 from "./public/assets/Projects/Filmo/filmo-1.png";
-import filmo2 from "./public/assets/Projects/Filmo/filmo-2.png";
-import canal1 from "./public/assets/Projects/myCanal/canal-1.png";
-import canal2 from "./public/assets/Projects/myCanal/canal-2.png";
+import saggi from './public/assets/Projects/saggi.png';
+import saggi2 from './public/assets/Projects/saggi2.png';
 
-//import elow1 from "./public/assets/Projects/Elow/elow-1.PNG";
-import elow from "./public/assets/Projects/Elow/elow.png";
-import elow2 from "./public/assets/Projects/Elow/elow-2.png";
-import soundcharts1 from "./public/assets/Projects/Soundcharts/soundcharts-1.png";
-import soundcharts2 from "./public/assets/Projects/Soundcharts/soundcharts-2.png";
+import euroblock from './public/assets/Projects/euroblock.png';
+import euroblock2 from './public/assets/Projects/euroblock2.png';
 
-import fiftyLab from "./public/assets/Projects/350lab/350lab.png";
-import fiftylab2 from "./public/assets/Projects/350lab/350lab-2.png";
+import acousticentre from './public/assets/Projects/acousticentre.png';
+import acousticentre2 from './public/assets/Projects/acousticentre2.png';
+
+import directoptic from './public/assets/Projects/directoptic.png';
+import directoptic2 from './public/assets/Projects/directoptic2.png';
+
+import manufacture from './public/assets/Projects/manufacture.png';
+import manufacture2 from './public/assets/Projects/manufacture2.png';
+
 
 const data = [
   {
     id: 1,
     name: "Saggi Jewels",
-    primaryImage: canal1,
-    secondaryImage: canal2,
+    primaryImage: saggi,
+    secondaryImage: saggi2,
     description: [
       {
         id: 1,
-        text: "Développment de l'application myCanal",
+        text: "Développment d'une boutique",
       },
       {
         id: 2,
-        text: "sur Windows et Xbox.",
+        text: "en ligne de bijoux.",
       },
     ],
     role: "Développeuse No-Code",
-    year: "2020 - Aujourd'hui",
+    technos:"Wordpress - Woocommerce - Elementor",
     link: "https://saggi-jewels.com/",
   },
   {
     id: 2,
     name: "Euroblock",
-    primaryImage: filmo1,
-    secondaryImage: filmo2,
+    primaryImage: euroblock,
+    secondaryImage: euroblock2,
     description: [
       {
         id: 1,
-        text: "Développment de l'application mobile FilmoTV",
+        text: "Développment d'un site vitrine professionnelle pour une ",
       },
       {
         id: 2,
-        text: "sur Android et IOS.",
+        text: "société dans le secteur du bâtiment. Optimisation SEO basique.",
       },
     ],
     role: "Développeuse No-Code",
-    year: "2020 - Aujourd'hui",
+    technos:"Wordpress - Elementor",
     link: "https://euroblock.fr/",
   },
   {
     id: 3,
     name: "AcoustiCentre",
-    primaryImage: soundcharts1,
-    secondaryImage: soundcharts2,
+    primaryImage: acousticentre,
+    secondaryImage: acousticentre2,
     description: [
       {
         id: 1,
-        text: "Développment du site web et de l'application",
+        text: "Développment d'un site vitrine pour une",
       },
       {
         id: 2,
-        text: "Soundcharts sur Ios et Android",
+        text: "société dans le secteur de l'audition.",
       },
     ],
     role: "Développeuse No-Code",
-    year: "2020 - Aujourd'hui",
-    link: "https://soundcharts.com/",
+    technos:"Wordpress - Elementor",
+    link: "https://www.acousticentre.ch/",
   },
   {
     id: 4,
     name: "Audition Direct Optic",
-    primaryImage: elow,
-    secondaryImage: elow2,
+    primaryImage: directoptic,
+    secondaryImage: directoptic2,
     description: [
       {
         id: 1,
-        text: "Application permettant de mesurer la",
+        text: "Développement d'un site vitrine ",
       },
       {
         id: 2,
-        text: "consommation énergétique de son PC",
+        text: "et création d'articles SEO.",
       },
     ],
     role: "Développeuse No-Code",
-    year: "2020 - Aujourd'hui",
-    link: "https://elow.energy/fr/",
+    technos:"Wordpress - Elementor",
+    link: "https://audition.direct-optic.fr/",
   },
   {
     id: 5,
     name: "Manufacture Perrin",
-    primaryImage: fiftyLab,
-    secondaryImage: fiftylab2,
+    primaryImage: manufacture,
+    secondaryImage: manufacture2,
     description: [
       {
         id: 1,
-        text: "Développement et Design de la landing page",
+        text: "Développement d'un site vitrine",
       },
       {
         id: 2,
-        text: "du studio 350lab",
+        text: "simplifié pour une boutique physique.",
       },
     ],
-    role: "Développeuse No-Code - Ui/Ux",
-    year: "2022 - Aujourd'hui",
-    link: "https://www.350lab.com/",
+    role: "Développeuse No-Code",
+    technos:"Wordpress - Gutenberg",
+    link: "https://manufacture-perrin.com/",
   },
 ];
 

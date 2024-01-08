@@ -18,33 +18,7 @@ export default function Navigation({ items, activeIndex, setActiveIndex }) {
             Accueil
           </motion.a>
         </Link>
-        <motion.div
-          variants={fade}
-          initial="initial"
-          animate="enter"
-          exit="exit"
-          className="relative w-5">
-          <span className="line"></span>
-        </motion.div>
-        <motion.ul
-          variants={fade}
-          initial="initial"
-          animate="enter"
-          exit="exit"
-          className=" flex space-x-2 self-center">
-          {items.map(({ route, url }, index) => {
-            const isActive = index === activeIndex;
-            return (
-              <motion.li key={index} class="text-sm uppercase ">
-                <Link href={url} class="relative">
-                  <a className="font-founders">
-                    <span>{route}</span>
-                  </a>
-                </Link>
-              </motion.li>
-            );
-          })}
-        </motion.ul>
+        
       </div>
     </motion.nav>
   );

@@ -29,7 +29,7 @@ export default function Project({ project }) {
             },
           }}
           exit={{
-            y: 100,
+            
             transition: {
               delay: exitDelay,
               duration: exitDuration,
@@ -59,7 +59,6 @@ export default function Project({ project }) {
                 },
               }}
               exit={{
-                y: 100,
                 transition: {
                   delay: 0.3,
                   duration: 0.8,
@@ -115,7 +114,7 @@ export default function Project({ project }) {
                 },
               }}
               className={titleStyle}>
-              Année
+              Technologies
             </motion.p>
           </div>
           <div className="overflow-hidden">
@@ -138,7 +137,7 @@ export default function Project({ project }) {
                 },
               }}
               className={contentStyle}>
-              {project.year}
+              {project.technos}
             </motion.p>
           </div>
         </motion.li>
